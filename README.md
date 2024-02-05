@@ -1,1 +1,1 @@
-# barrierefreihet-diff
+# barrierefreiheit-diff
