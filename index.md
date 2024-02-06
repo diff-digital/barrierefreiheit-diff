@@ -33,12 +33,14 @@
 		color: white;
 	}
 </style>
+
+<button onclick="toggleHighContrast()">Kontrast erhöhen</button>
+
 ```
 
 ## Beispiel: Anpassung der Schriftgröße
 
 ```html
-<button onclick="toggleHighContrast()">Kontrast erhöhen</button>
 
 <h2>Beispiel: Anpassung der Schriftgröße</h2>
 <script>
