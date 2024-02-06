@@ -1,2 +1,4 @@
 - [Allgemein](index)
-- [Example Second Page](second-page)
+- [Videos](video)
+- [Textalternativen](textalternativen)
+- [Anpassbarkeit](anpassbarkeit)
